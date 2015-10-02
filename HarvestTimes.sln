@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarvestTimes", "HarvestTimes\HarvestTimes.csproj", "{67A68AE2-D692-4208-94DE-D7DCB197451A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarvestTimes.Tests", "HarvestTimes.Tests\HarvestTimes.Tests.csproj", "{AB234C33-C784-4CC6-95E1-3D62E05E88DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		MarkPearl|Any CPU = MarkPearl|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A68AE2-D692-4208-94DE-D7DCB197451A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A68AE2-D692-4208-94DE-D7DCB197451A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A68AE2-D692-4208-94DE-D7DCB197451A}.MarkPearl|Any CPU.ActiveCfg = MarkPearl|Any CPU
+		{67A68AE2-D692-4208-94DE-D7DCB197451A}.MarkPearl|Any CPU.Build.0 = MarkPearl|Any CPU
+		{67A68AE2-D692-4208-94DE-D7DCB197451A}.Release|Any CPU.ActiveCfg = MarkPearl|Any CPU
+		{67A68AE2-D692-4208-94DE-D7DCB197451A}.Release|Any CPU.Build.0 = MarkPearl|Any CPU
+		{AB234C33-C784-4CC6-95E1-3D62E05E88DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB234C33-C784-4CC6-95E1-3D62E05E88DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB234C33-C784-4CC6-95E1-3D62E05E88DC}.MarkPearl|Any CPU.ActiveCfg = Release|Any CPU
+		{AB234C33-C784-4CC6-95E1-3D62E05E88DC}.MarkPearl|Any CPU.Build.0 = Release|Any CPU
+		{AB234C33-C784-4CC6-95E1-3D62E05E88DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB234C33-C784-4CC6-95E1-3D62E05E88DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
